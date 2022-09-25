@@ -1,2 +1,2 @@
-FROM spilo-14:2.1-p6
+FROM registry.opensource.zalan.do/acid/spilo-14:2.1-p6
 MAINTAINER zeyang
